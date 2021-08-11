@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @advait87
 - 👀 I’m interested in Web development (mostly CSS)
-- 🌱 I’m currently learning creating 3d stuff CSS only
+- 🌱 I’m currently learning DSA in JavaScript
 - 📫 How to reach me 'advaitandhale87@gmail.com'
 
 <!---
